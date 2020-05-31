@@ -4,6 +4,7 @@
 ## 1. 笔记清单
 
 * [《统计学（第七版）》](math/statistics.mmap)
+    * [统计学例题](math/example-statistics/README.md)
 * [《Tensorflow从零开始）](ai/tensorflow.mmap)
 
 ## 2. PDF下载资源

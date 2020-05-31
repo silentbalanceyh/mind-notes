@@ -1,0 +1,27 @@
+{
+    "": [
+        "readme.md", 
+        "ai", 
+        "math"
+    ], 
+    "__positions": {
+        "ai": 2, 
+        "math/example-statistics": 3001, 
+        "math/example-statistics/readme.md": 3001001, 
+        "readme.md": 1, 
+        "math": 3
+    }, 
+    "math/example-statistics": [
+        "readme.md"
+    ], 
+    "__raw_positions": {
+        "ai": 2, 
+        "math/example-statistics": 1, 
+        "math/example-statistics/readme.md": 1, 
+        "math": 3, 
+        "readme.md": 1
+    }, 
+    "math": [
+        "example-statistics"
+    ]
+}
