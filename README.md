@@ -18,3 +18,8 @@
 2. 高等数学下
 3. 工程数学线性代数
 4. 概率论与数理统计
+
+## 3. 脑图百度网盘
+
+* 链接: <https://pan.baidu.com/s/1N4SsfrCHcjPKOfmKpzZjEA>
+* 提取码: s461
